@@ -22,7 +22,8 @@ const workerConfig = {
       method: 'GET',
       // `target` is a valid URL
       target: 'https://cary.im',
-      tooltip: ''
+      tooltip: '',
+      statusPageLink: ''
     },
   ],
   callbacks: {
